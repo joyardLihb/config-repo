@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT IN GIT SERVER"
+example.property: "I AM IN THE DEFAULT IN GIT SERVER,VERSION 001"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
